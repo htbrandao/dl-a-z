@@ -1,6 +1,10 @@
 Keras==2.4.3
 scikit-learn==0.23.2
 tensorflow==2.3.1
-nltk==3.5
 seaborn==0.11.0
 MiniSom==2.2.7
+ipykernel==5.4.2
+ipython==7.19.0
+ipython-genutils==0.2.0
+ipywidgets==7.6.2
+scipy==1.5.4
